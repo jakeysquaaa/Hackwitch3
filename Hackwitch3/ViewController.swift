@@ -39,9 +39,15 @@ var firstString = "The background color will turn blue"
         {
            //now you write the instruction here
              self.view.backgroundColor = UIColor.green
+            //set greenlabel text to "green"
+            self.greenLabel.text="Green"
+            print(I completed both problem sets)
+            
+        
+        
         }
-        
-        
+                
+            }
     }
     
     @IBAction func changeButtonpress(_ sender: Any)
